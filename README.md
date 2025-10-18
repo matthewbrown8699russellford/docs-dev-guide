@@ -30,3 +30,5 @@ This repository used to contain the subdirectory docs-dev-guide/cf-cli, document
 <!-- Auto-update: 2025-10-14T08:03:04.971068 -->
 
 <!-- Auto-update: 2025-10-16T12:39:03.889285 -->
+
+<!-- Auto-update: 2025-10-18T09:37:29.563069 -->
